@@ -1,1 +1,1 @@
-# movie_dir
+# movie directory
